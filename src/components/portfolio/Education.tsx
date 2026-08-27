@@ -31,6 +31,8 @@ const timeline = [
     meta: "Classes 5–8",
     body: "Early school years where my interest in mathematics and learning began to grow.",
   },
+];
+
 
 export function Education() {
   return (
