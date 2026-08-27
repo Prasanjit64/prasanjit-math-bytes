@@ -19,12 +19,20 @@ const timeline = [
   },
   {
     icon: School,
+    title: "Madhyamik (Class 10)",
+    place: "Damdama High School",
+    meta: "Class 10 — Completed",
+    body: "Completed secondary education from Damdama High School, marking an important milestone in my academic journey.",
+  },
+  {
+    icon: School,
     title: "School Education",
     place: "Dalkhola High School",
     meta: "Classes 5–8",
     body: "Early school years where my interest in mathematics and learning began to grow.",
   },
 ];
+
 
 export function Education() {
   return (
